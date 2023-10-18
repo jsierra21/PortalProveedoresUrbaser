@@ -1,0 +1,8 @@
+  "ConnectionStrings": {
+    "PortalProveedoresEntitiesDev": "Server=40.70.14.184;Database=PortalProveedoresDB;persist security info=True;user id=App_PortalUrbaser;password=Ur6@s3r2022*;MultipleActiveResultSets=True",
+    "PortalProveedoresEntities": "Server=10.0.0.16;Database=PortalProveedoresDB;persist security info=True;user id=App_PortalPruebasUrbaser;password=Ur6@s3r2022*;MultipleActiveResultSets=True",
+    "ApoteosysEntitiesDev": "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=172.18.41.14)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=APOTPROD)));User Id=xander;Password=xander_2019;",
+    "ApoteosysEntities": "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=190.143.120.20)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=APOTPROD)));User Id=xander;Password=xander_2019;",
+    "SispoEntitiesDev": "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=172.18.41.18)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=apex236)));User Id=userpad;Password=userpad2017;",
+    "SispoEntities": "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=190.143.120.18)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=apex236)));User Id=userpad;Password=userpad2017;"
+  },
